@@ -1,4 +1,4 @@
-# WebAPI Design for assessment
+# WebAPI Charter Assessment
 
   Two REST API endpoints:
   - `GET /api/reward/user/{id}/month/{month}`: get reward per month.
